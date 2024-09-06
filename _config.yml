@@ -13,14 +13,3 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
 
-# Entries for menubar.
-# title: caption used for item.
-# url: relative path to HTML page.
-menubar:
-- title: Home
-  url: /index.html
-- title: About Yunjia
-  url: /about.html
-- title: Contact me
-  url: /contact.html
-
