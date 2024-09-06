@@ -1,3 +1,3 @@
-## Welcome to my website. My name is Alven Li. I am a data nerd and I love to be in nature! I live in Washington Heights, NY. 
+My personal website built with [Jekyll](https://jekyllrb.com/),  [Tufte CSS](https://github.com/edwardtufte/tufte-css), and is rendered via [GitHub pages](https://pages.github.com/).
 
-You can reach out to me at alvenli1009 at yli292 at fordham dot edu
+To view the web site, visit http://alv-en.github.io/.

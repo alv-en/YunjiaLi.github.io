@@ -1,17 +1,17 @@
-theme: jekyll-theme-architect
-
-plugins:
-  - jekyll-sitemap
-
-title: Yunjia Li's homepage
+# Site settings
+title: Yunjia Li's website
 description: Bookmark this to keep an eye on my project updates!
 darkmode: true
+baseurl: /alv-en.github.io
+url: "http://alv-en.github.io"
+github_username:  alv-en
+timezone: America/New_York
 
-# Site settings
-project_name: Yunjia Li's website
 
-# gh-pages site subpath
-baseurl: "/sample-site"
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
 
 # Entries for menubar.
 # title: caption used for item.
@@ -19,4 +19,8 @@ baseurl: "/sample-site"
 menubar:
 - title: Home
   url: /index.html
+- title: About Yunjia
+  url: /about.html
+- title: Contact me
+  url: /contact.html
 

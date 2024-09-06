@@ -1,11 +1,12 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.9"
-gem "kramdown-parser-gfm", "~> 1.1"
-gem "webrick", "~> 1.7"
-
-gem "jekyll-theme-architect", "~> 0.1.1"
-
+gem "jekyll", "> 3.9"
+gem 'github-pages'
+gem "kramdown-parser-gfm"
+gem "webrick", "~> 1.8"
 group :jekyll_plugins do
-  gem "jekyll-sitemap", "~> 1.4"
+  gem 'jekyll-sitemap'
 end
+
+
+
